@@ -11,12 +11,12 @@ This Python code snippet demonstrates how to split a given raw text into sentenc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/devtonic-net/nlp-split-sentences-using-deepl.git
+   git clone https://github.com/devtonic-net/NLPSplitSentencesDeepLAPI.git
 
 2. Navigate to the project directory:
 
     ```bash
-    cd nlp-split-sentences-using-deepl
+    cd NLPSplitSentencesDeepLAPI
 
 3. Create a new virtual environment:
 
