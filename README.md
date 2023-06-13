@@ -41,13 +41,8 @@ This Python code snippet demonstrates how to split a given raw text into sentenc
     pip install -r requirements.txt
 
 2. Create a text file called `my_text.txt`. This file should contain the text you need to split into sentences.
-3. Import the necessary modules in your Python script:
 
-    ```python3
-    import requests
-    import json
-
-4. In `main.py`, Call the `split_sentences()` function, passing the raw text as the argument:
+3. In `main.py`, call the `split_sentences()` function, passing the raw text as the argument:
 
     ```python3
     text = get_text("my_text.txt")
