@@ -27,13 +27,11 @@ This Python code snippet demonstrates how to split a given raw text into sentenc
 
     For Windows:
 
-    ```bash
-    venv\Scripts\activate
+    `venv\Scripts\activate`
 
     For Unix or Linux:
 
-    ```bash
-    source venv/bin/activate
+    `source venv/bin/activate`
 
 ## Usage
 
